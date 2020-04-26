@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="priorities">
+        <item>На день</item>
+        <item>На тиждень</item>
+        <item>На місяць</item>
+        <item>На рік</item>
+    </string-array>
+
+</resources>

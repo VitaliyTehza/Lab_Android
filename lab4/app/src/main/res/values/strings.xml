@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="hello">Привіт!Ласкаво просимо в МастДу</string>
+<string name="app_name">МастДу</string>
+<string name="no_todos">Наразі список пустий</string>
+<string name="menu_insert">Додати</string>
+<string name="menu_delete">Видалити</string>
+<string name="todo_summary">Назва</string>
+<string name="todo_description">Видалити</string>
+<string name="todo_edit_summary">Назва</string>
+<string name="todo_edit_description">Подробиці</string>
+<string name="todo_edit_confirm">ОК</string>
+</resources>

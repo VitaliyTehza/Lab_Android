@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Lesson 5</string>
+
+    <string name="notes">Notes</string>
+    <string name="save">Save</string>
+    <string name="clear_all">Clear All</string>
+    <string name="enter_note">Enter a note</string>
+    <string name="filter">Filter</string>
+</resources>

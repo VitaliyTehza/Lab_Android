@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Lesson 8</string>
+    <string name="search">Search</string>
+    <string name="enter_text">Enter some text</string>
+    <string name="page_id">PageId: %1$d</string>
+</resources>
